@@ -1,0 +1,1 @@
+// Empty file that tells Netlify we are using Gatsby
