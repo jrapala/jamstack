@@ -1,0 +1,11 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Juliette Rapala <jrapala@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0"
+  }
+}
