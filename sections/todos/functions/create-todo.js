@@ -1,4 +1,3 @@
-const setQuery = require('./utils/send-query');
 const sendQuery = require('./utils/send-query');
 
 const CREATE_TODO = `
